@@ -1,0 +1,24 @@
+﻿  VGM_streamer.cpp
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(140,26): warning C4293: '<<': calcolo shift negativo o troppo grande. Comportamento indefinito
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(145,12): warning C4477: 'printf': con la stringa di formato '%ls' è necessario un argomento di tipo 'wchar_t *', ma il tipo dell'argomento variadic 1 è 'UINT8 *'
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(145,12): message : provare a usare '%hs' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(145,12): message : provare a usare '%s' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(145,12): message : provare a usare '%Ts' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(148,12): warning C4477: 'printf': con la stringa di formato '%ls' è necessario un argomento di tipo 'wchar_t *', ma il tipo dell'argomento variadic 1 è 'UINT8 *'
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(148,12): message : provare a usare '%hs' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(148,12): message : provare a usare '%s' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(148,12): message : provare a usare '%Ts' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(151,12): warning C4477: 'printf': con la stringa di formato '%ls' è necessario un argomento di tipo 'wchar_t *', ma il tipo dell'argomento variadic 1 è 'UINT8 *'
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(151,12): message : provare a usare '%hs' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(151,12): message : provare a usare '%s' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(151,12): message : provare a usare '%Ts' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(154,12): warning C4477: 'printf': con la stringa di formato '%ls' è necessario un argomento di tipo 'wchar_t *', ma il tipo dell'argomento variadic 1 è 'UINT8 *'
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(154,12): message : provare a usare '%hs' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(154,12): message : provare a usare '%s' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(154,12): message : provare a usare '%Ts' nella stringa di formato
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(159,27): warning C4293: '<<': calcolo shift negativo o troppo grande. Comportamento indefinito
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(174,23): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(243,23): warning C4293: '<<': calcolo shift negativo o troppo grande. Comportamento indefinito
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(51,9): warning C4101: 'result': variabile locale senza riferimenti
+C:\Users\ingan\source\repos\VGM_streamer\VGM_streamer.cpp(48,12): warning C4101: 'VGM_init': variabile locale senza riferimenti
+  VGM_streamer.vcxproj -> C:\Users\ingan\source\repos\VGM_streamer\Debug\VGM_streamer.exe
